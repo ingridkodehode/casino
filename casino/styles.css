@@ -1,0 +1,53 @@
+body {
+  color: #291237;
+  margin: 0;
+  padding: 0;
+  background-image: url("images/back.gif");
+  background-size: cover;
+  text-align: center;
+  display: inline;
+  align-content: center;
+}
+
+p {
+  color: #8a2be2;
+  font-size: 30px;
+  text-shadow: 2px 2px 0px #892be26c;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-family: lar;
+  font-size: 70px;
+  text-shadow: 3px 3px 0px #8a2be2;
+  margin-bottom: 20px;
+}
+
+#message-el {
+  font-family: "Montserrat", sans-serif;
+  color: #291237;
+}
+
+@font-face {
+  src: url("Larissa.ttf");
+  font-family: lar;
+}
+
+.content {
+  background-color: rgba(218, 112, 214, 0.395);
+  border-radius: 30px;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 13%;
+}
+
+.btn {
+  padding: 15px 60px;
+  color: #291237;
+  background: #892be26c;
+  border: none;
+  border-radius: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin: 2%;
+}
